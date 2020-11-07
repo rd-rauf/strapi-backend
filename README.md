@@ -1,3 +1,3 @@
 # Strapi application
 
-A quick description of your strapi application
+Strapi backend deployed in the cloud in a container, mounted on a volume, attached to this repo.
